@@ -20,6 +20,15 @@ class HomeView extends Component {
         return (
             <div className="main">
                 磐安木制品厂
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG304.jpg"/>
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG306.jpg" />
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG306.jpg" />
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG308.jpg" />
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG309.jpg" />
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG310.jpg" />
+                <img src="http://huchsite.oss-cn-shanghai.aliyuncs.com/muzhi/WechatIMG311.jpg" />
+                <img src="" />
+                
             	
 			</div>
 
