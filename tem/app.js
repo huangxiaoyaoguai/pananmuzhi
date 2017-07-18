@@ -2,6 +2,9 @@ var express = require('express');
 var app = express();
 
 var path = require('path');
+var compression = require('compression')
+app.use(compression()) //gzip
+
 
 
 
