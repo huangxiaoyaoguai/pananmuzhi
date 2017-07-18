@@ -5,15 +5,13 @@ var path = require('path');
 
 
 
-app.use('/js', express.static('./js'));
+app.use('/assets', express.static('./assets'));
 
-app.use('/css', express.static('./css'));
 
 app.use('/images', express.static('./images'));
 
 
-
-app.get('*',function(req,res){
+app.get('/',function(req,res){
 	res.sendFile(path.resolve(__dirname,'./index.html'))
 })
 
